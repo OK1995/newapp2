@@ -1,0 +1,24 @@
+{
+  "name": "newapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Question_2_ajax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OK1995/newapp2.git"
+  },
+  "author": "Omkar Kadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OK1995/newapp2/issues"
+  },
+  "homepage": "https://github.com/OK1995/newapp2#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
